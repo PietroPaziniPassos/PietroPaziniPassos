@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @PietroPaziniPassos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Pietro Pazini
 
-<!---
-PietroPaziniPassos/PietroPaziniPassos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# XR Game Developer
+
+## Overview
+
+Hello, I'm Pietro Pazini, a XR Game Developer with a solid background in Unity3D and a knack for crafting immersive experiences.
+I am passionate about technology since I was a child and always seek to learn new things.
+
+___
+Made by [Pietro Pazini](https://www.linkedin.com/in/pietro-pazini)
