@@ -42,7 +42,7 @@ I am passionate about technology since I was a child and always seek to learn ne
 ## Desktop
 
 | Laptop | Asus ROG Strix | i9-13980HX 32Gb RAM 1Tb SSD RTX 4050 
-|
+|--------------|------------|----------------------
 | Monitor | Asus TUF Gaming | 27" 1440P 165hz 1ms 
 | Keyboard | Redragon mitra | Mecanic keyboard 107 buttons 
 | Mouse | Fortrek pro M5 | 4800dpi 
